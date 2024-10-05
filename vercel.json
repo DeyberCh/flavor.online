@@ -15,5 +15,6 @@
     { "source": "/products3", "destination": "/products3.html" },
     { "source": "/products4", "destination": "/products4.html" },
     { "source": "/thanks", "destination": "/thanks.html" }
-  ]
+  ],
+  "cleanUrls": true
 }
